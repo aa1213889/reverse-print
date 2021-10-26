@@ -1,2 +1,2 @@
 # reverse-print
-python 生成 88万行代码
+python生成 反转打印的88W行代码JS实现
